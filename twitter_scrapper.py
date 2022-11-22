@@ -5,10 +5,7 @@ from selenium.webdriver.support import expected_conditions as EC
 import json
 from time import sleep
 
-# PATH = "C:\Program Files (x86)\chromedriver.exe"
-
 driver = webdriver.Chrome()
-
 driver.get("https://twitter.com/bbcbangla")
 
 ###############################################################################################
