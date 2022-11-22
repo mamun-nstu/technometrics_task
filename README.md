@@ -9,7 +9,7 @@ Task completed by:  **Abdullah Al-Mamun**
 
 1. Install python in your machine.
 
-    -- Try to install Pyhton version 3 at least, because they comes with pip installed with it otherwise you may need to install pip seperately.
+    -- Try to install Python version 3 at least, because they comes with pip installed with it otherwise you may need to install pip seperately.
 
 2. Selenium requires a driver to interface with the chosen browser. Based on your browser version choose your browser driver. Here are some
    useful links to get your browser driver.
