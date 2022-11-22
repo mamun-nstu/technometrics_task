@@ -41,7 +41,6 @@ def twitter_scrapper(number):
         sleep(1)
 ###############################################################################################
 
-
 tweets = []
 num_of_tweets = int(input("Number of Tweets required: "))
 
